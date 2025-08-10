@@ -1,11 +1,55 @@
-- name: HTML5/CSS3
+- name: JavaScript
   percentage: 90
+  color: warning
+
+- name: TypeScript
+  percentage: 90
+  color: info
+
+- name: Angular
+  percentage: 85
   color: danger
 
-- name: Go
+- name: React
+  percentage: 85
+  color: success
+
+- name: Next.js
   percentage: 80
-  color:
+  color: primary
+
+- name: HTML & CSS
+  percentage: 90
+  color: dark
+
+- name: Node.js
+  percentage: 85
+  color: secondary
+
+- name: NestJS
+  percentage: 80
+  color: primary
+
+- name: Java
+  percentage: 80
+  color: secondary
+
+- name: Spring Boot
+  percentage: 70
+  color: dark
 
 - name: Python
-  percentage: 70
-  color: secondary
+  percentage: 75
+  color: info
+
+- name: MongoDB
+  percentage: 80
+  color: success
+
+- name: MySQL
+  percentage: 50
+  color: warning
+
+- name: AWS
+  percentage: 65
+  color: dark

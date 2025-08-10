@@ -1,3 +1,20 @@
+- name: Agile Project Management
+  percentage: 90
+  color: primary
+
+- name: Ability to Work in a Team
+  percentage: 95
+  color: success
+
+- name: Leadership Skills
+  percentage: 85
+  color: info
+
+- name: Business Development
+  percentage: 70
+  color: warning
+
+# Existing design tools retained
 - name: Adobe Photoshop
   percentage: 95
   color: info

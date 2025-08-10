@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Aakash Sinha | From Concept to Code
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -21,28 +21,28 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/blog.html
 
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Aakash Sinha
   image             : https://media.canva.com/v2/image-resize/format:JPG/height:550/quality:92/uri:ifs%3A%2F%2FM%2Fce112b6f-5e59-413d-9158-5974632ac1fd/watermark:F/width:397?csig=AAAAAAAAAAAAAAAAAAAAADqjiN8iNebBCfnUq0jonSC_XtzsRDcXYYYw8oyy82cc&exp=1754779781&osig=AAAAAAAAAAAAAAAAAAAAAKyj_ddEBX57FEiQlB9FypyfZ1dFBx4Oq7efCWnH-jII&signer=media-rpc&x-canva-quality=thumbnail_large
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : sinha.aakash.95@gmail.com
+##  github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : aakash-sinha-b484a712a
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+ # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
