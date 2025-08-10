@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Learnreel
+tools: [React, React-Native, Nodejs, Tailwind Css, MongoDb]
+image: /assets/img/learnreel.png
+description: Social learning app with real world insights from industry experts https://learnreel.com
+external_url: https://www.linkedin.com/company/learnreel/
 ---

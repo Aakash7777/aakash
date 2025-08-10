@@ -1,17 +1,53 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: "🔁Moving Walls, Singapore"
+  from: 2023-12
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: |
+    Rejoined Moving Walls (Singapore) to build and scale products across the ad‑tech platform. Driving front‑end in Angular/React and back‑end/API work with Node.js/Java, collaborating with cross‑functional teams to ship high‑impact features.
+
+- title: "🚀 Senior Software Engineer, Spendflo, Bengaluru"
+  from: 2022-03
+  to: 2023-11
+  description: |
+    Built features optimizing customer experience and performance. Collaborated across teams to align solutions with business goals.
+
+- title: "🛠️ Team Lead / Full‑Stack Developer, Vanna Int. Ltd., Bangalore, India"
+  from: 2021-02
+  to: 2022-02
+  description: |
+    Led development of three platforms (Job Portal, Company Portal, Admin Portal). Full front‑end in Angular/TypeScript/HTML/CSS; back‑end APIs with Node.js, Serverless, AWS Lambda. Built a short‑video learning app Learnerz (similar to TikTok) using React, Redux‑Saga, and Tailwind CSS.
+
+- title: "🌐 Full‑Stack Developer, Moving Walls Sdn. Bhd., Kuala Lumpur"
+  from: 2018-09
+  to: 2021-01
+  description: |
+    Led front‑end of a major business platform (web app) in Angular 6/7/8/9 with TypeScript/HTML/CSS. Built back‑end services and Spring Boot APIs in Java. Ensured platform stability and performance. Worked in an Agile team; certified in Scrum Fundamentals.
+
+- title: "💻 Frontend Developer, Infolliance Sdn Bhd, Selangor"
+  from: 2018-06
+  to: 2018-09
+  description: |
+    Designed and developed websites for multiple clients. Managed servers, hosting, and IT solutions. Built company product catalogs and profiles. Upgraded skills in HTML/CSS/JavaScript and Adobe tools; improved time management.
+
+- title: "🔧 Industrial Trainee, Sciencisco Sdn. Bhd., Selangor"
+  from: 2017-07
+  to: 2017-09
+  description: |
+    Assisted with design and documentation of educational lab trainers for electrical and communication engineering topics. Designed and debugged 8086 microprocessor training kits and PLC components.
+
+- title: "🎓 MBA, Data Analytics — Manipal International University"
+  from: 2018-10
+  to: 2020-02
+  description: |
+    Masters of Business Administration with a focus on Data Analytics.
+
+- title: "🏅 B.E. Electronics & Communication — Manipal International University"
+  from: 2014-09
+  to: 2018-12
+  description: |
+    Merit/Dean’s List (2015, 2017). Mathematics Olympiad (Merit List 2015). Most Innovative Project Award (2018).
+
+- title: "📚 12th and 10th CBSE — Joy Senior Secondary School, Jabalpur"
+  from: 2011-04
+  to: 2013-06
+  description: |
+    Major subjects: Mathematics, Physics, Chemistry. Scored 83%.

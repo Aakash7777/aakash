@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: Clones - Amazon, Google, Whatsapp 
+tools: [Node JS, Next Js, MongoDb, Firebase]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/yousinix
+description: Clones of real world applications.
+external_url:
 ---

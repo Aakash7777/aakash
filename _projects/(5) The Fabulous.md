@@ -1,7 +1,7 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+name: Moving Audiences Exchange (Demand Side Platform)
+tools: [Java (Spring Boot), Pyhton, Angular, Material Design, MongoDb, Redis]
+image: /assets/img/dsp.png
+description: Moving Audiences Exchange (Demand Side Platform), is a tool for the brands and agencies to plan, manage and excute their Marketing campaings on DOOH and Programmatic.
+external_url: https://xchange.movingwalls.com/login
 ---

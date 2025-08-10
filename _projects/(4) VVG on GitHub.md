@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
+name: Vanna
+tools: [Node JS, Angular, Tailwind CSS]
 image:
-description: Show some support by following me!
-external_url: https://github.com/yousinix
+description: Award winning career development platform - jobs, companies, courses.
+external_url: https://www.linkedin.com/company/vannacareers
 ---

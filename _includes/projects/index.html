@@ -52,7 +52,7 @@
       {%- assign external    = false -%}
     {%- endif -%}
 
-    {% include projects/project-card.html %}
+    {% include projects/project-card.html local_index=forloop.index0 %}
 
   {% endfor %}
 
